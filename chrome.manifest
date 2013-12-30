@@ -1,0 +1,2 @@
+content twmarks content/
+overlay chrome://browser/content/browser.xul chrome://twmarks/content/overlay.xul
